@@ -4,9 +4,11 @@ Use the touch command to create sets of empty practice files to use during this 
 
 
 Experiment
+
 Command to be used:
 
 touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
+
 mkdir friends family work
 
 

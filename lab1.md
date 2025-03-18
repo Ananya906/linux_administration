@@ -12,3 +12,4 @@ touch song{1..6}.mp3 snap{1..6}.jpg film{1..6}.avi
 mkdir friends family work
 
 
+![WhatsApp Image 2025-03-18 at 15 32 38_52a99b30](https://github.com/user-attachments/assets/b86f7bc6-a84b-4d4d-b021-0d6988c8c383)

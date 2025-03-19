@@ -29,6 +29,8 @@ Command to be used:
 11.umask 007
 
 12. umask
+
+
 ![WhatsApp Image 2025-03-19 at 20 26 09_ee219b2f](https://github.com/user-attachments/assets/d0ffd116-d1a3-467b-922a-df3669633f6f)
 
 

@@ -5,7 +5,7 @@ Use Vim,nano,  to edit the editing_final_lab.txt file. Use the lab_file shell va
 
 Experiment
 
-Comand to be used
+Command to be used
 
 lab_file="editing_final_lab.txt"
 

@@ -35,8 +35,9 @@ Command to be used:
 14.  cat /etc/passwd | grep operator3
 
 
-![WhatsApp Image 2025-03-19 at 20 51 15_89135422](https://github.com/user-attachments/assets/8f235ade-f875-4aa8-ad62-df6f2a525367)
-
 
 ![WhatsApp Image 2025-03-19 at 20 51 03_239ebab6](https://github.com/user-attachments/assets/3ea36751-b53c-401b-a85f-e84d49b95235)
 
+
+
+![WhatsApp Image 2025-03-19 at 20 51 15_89135422](https://github.com/user-attachments/assets/8f235ade-f875-4aa8-ad62-df6f2a525367)

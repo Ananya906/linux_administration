@@ -26,19 +26,17 @@ Command to be used:
 
 10. chmod a+x script.sh
 
-11. chmod a+x script.sh
+11.chmod 750 filename
 
-12.chmod 750 filename
+12. touch secret.txt
 
-13. touch secret.txt
+13. chmod 600 secret.txt
 
-14. chmod 600 secret.txt
+14. mkdir myfolder/
 
-15. mkdir myfolder/
+15. chmod -R 755 myfolder/
 
-16. chmod -R 755 myfolder/
-
-17. ls -l filename
+16. ls -l filename
 
 
 

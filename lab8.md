@@ -34,6 +34,11 @@ Command to be used:
 
 13. bash SystemInfo.txt
 
+14. nano re.sh
+
+15. bash re.sh
+
+16. cat file.txt 
 
 
 ![WhatsApp Image 2025-03-20 at 20 09 42_94857a68](https://github.com/user-attachments/assets/d7bf6000-7f19-4caa-8c64-12790e49a56b)
@@ -60,8 +65,13 @@ Command to be used:
 ![WhatsApp Image 2025-03-20 at 22 10 30_b08f9242](https://github.com/user-attachments/assets/687c6a05-d3f0-4226-b033-c075a7d6a735)
 
 
+
+
 ![WhatsApp Image 2025-03-20 at 22 10 34_ae232a08](https://github.com/user-attachments/assets/7b080e6b-6154-4127-8cb1-0c7bc00019d6)
 
+
+
+![WhatsApp Image 2025-03-20 at 22 18 57_a7b9543a](https://github.com/user-attachments/assets/3378ef95-47b9-42cf-abad-db6c6260a87e)
 
 
 
@@ -72,3 +82,6 @@ Command to be used:
 
 
 ![WhatsApp Image 2025-03-20 at 22 10 39_1d8d52d4](https://github.com/user-attachments/assets/f12dfe7e-3079-4818-81f8-3db9ea043244)
+
+
+![WhatsApp Image 2025-03-20 at 22 19 05_c1a0ce78](https://github.com/user-attachments/assets/328d3d44-0992-4ccc-a870-aa69fd97bf59)
